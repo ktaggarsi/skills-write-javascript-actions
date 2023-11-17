@@ -49,6 +49,8 @@ Follow [this guide](https://help.github.com/en/actions/automating-your-workflow-
 - [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
 - To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
 
+[![Step 0, Welcome](https://github.com/ktaggarsi/skills-write-javascript-actions/actions/workflows/0-welcome.yml/badge.svg?branch=testbranch)](https://github.com/ktaggarsi/skills-write-javascript-actions/actions/workflows/0-welcome.yml)
+
 <footer>
 
 ---
